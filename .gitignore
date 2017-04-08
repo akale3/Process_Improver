@@ -1,0 +1,4 @@
+.idea/
+ProcessImprover/target/
+/tomcat.8001
+*.iml
